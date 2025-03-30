@@ -1,6 +1,7 @@
 # Hello, I'm Faris!
---
+
 Full-time Diploma Student | Aspiring Web Developer
+
 Currently exploring: HTML, CSS and JavaScript
 
 Even with my busy university schedule, I always try to allocate a time period to upskill myself in web development.
